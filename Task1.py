@@ -1,2 +1,2 @@
 sentence = input ( "Enter any sentence ")
-print(sentence.upper())
+print("String in upper Case : ",sentence.upper())

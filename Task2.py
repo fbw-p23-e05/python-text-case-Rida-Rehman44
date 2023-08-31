@@ -1,2 +1,2 @@
 sentence = input ( "Enter any sentence ")
-print(sentence.lower())
+print("String in Lower Case : ", sentence.lower())
